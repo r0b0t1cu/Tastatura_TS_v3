@@ -7,6 +7,9 @@ It also works with the classic ZX Spectrum, offering full compatibility with bot
 
 ![Keyboard PCB](imagini/Front_Tastatura_TS_V3.jpg)
 
+Keyboard PCB
+The Gerber files are located in the production folder.
+
 Instructions for installing the required key switch libraries:
 Open the KiCad Plugin and Content Manager (PCM) and click Manage. Add a new entry with the plus button and paste the following URL:
 https://raw.githubusercontent.com/ebastler/ebastler-KiCad-repository/main/repository.json
@@ -26,5 +29,6 @@ Instructiuni pentru librariile de butoane folosite:
 Open the KiCad "Plugin and Content Manager" (referred to as "PCM" from now on) and click on "Manage". Add a new entry with the plus sign and paste
 https://raw.githubusercontent.com/ebastler/ebastler-KiCad-repository/main/repository.json
 From this point on you will have "ebastler KiCad repository" in your drop-down selection, and it will allow you to install (and update) marbastlib through PCM - easy and hassle-free.
+
 
 
